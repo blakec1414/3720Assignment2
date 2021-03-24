@@ -1,0 +1,18 @@
+* { 
+	box-sizing: border-box; 
+}
+html,body {
+	min-height: 100vh;
+	margin: 0;
+}
+img {
+	max-width: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Merriweather', serif;
+    text-shadow: 2px 2px 2px #e75d11;
+    text-align: center;
+}
